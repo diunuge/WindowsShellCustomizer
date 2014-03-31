@@ -1,0 +1,9 @@
+# first line must not contain any rules
+
+/*.vbs
+
+!logs
+logs/*
+cache/*
+
+!.gitignore
